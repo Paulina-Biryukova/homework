@@ -1,1 +1,6 @@
 print('"Hello world"')
+print(type('Hello, World!'))
+print('Hello, ' + 'World' + '!')
+print(type (True), type(False))
+print(10>8)
+print(type(int('5')))
